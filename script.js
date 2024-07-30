@@ -1,4 +1,4 @@
-// NANO 2023, Copyright
+// QZita 2023, Copyright
 
 //  variables for easy target
 const body = document.querySelector("body"),
